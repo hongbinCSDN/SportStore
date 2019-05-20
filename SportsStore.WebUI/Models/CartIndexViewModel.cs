@@ -8,7 +8,7 @@ namespace SportsStore.WebUI.Models
 {
     public class CartIndexViewModel
     {
-        public Cart cart { get; set; }
+        public Cart Cart { get; set; }
         public string ReturnUrl { get; set; }
     }
 }
